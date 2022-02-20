@@ -26,7 +26,7 @@ Good question? <br> <b> Accessories/Talismans are a category of items that grant
 <br><input type="checkbox">[]--Red Claw Artifact ( critical damage+5) </b>
 <br><input type="checkbox">[]-Obviously you can suggest more by creating a issue
 # To-Do
-- [ ]Accessory bag <br>
-- [ ]Talismans<br>
-- [ ]Maybe ui to get tell in issues if you want<br>
-- [ ]Suggest more
+- [ ] Accessory bag <br>
+- [ ] Talismans<br>
+- [ ] Maybe ui to get tell in issues if you want<br>
+- [ ] Suggest more
