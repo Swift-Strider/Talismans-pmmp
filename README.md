@@ -24,7 +24,7 @@ Good question? <br> <b> Accessories/Talismans are a category of items that grant
  - [ ] --Haste Ring: (gives haste 1)
  - [ ] --Experience Artifact: (gives random amount of this xp every hour from 5exp - 20exp)
  - [ ] --Red Claw Artifact ( critical damage+5) </b>
- - [ ]-Obviously you can suggest more by creating a issue
+ - [ ] -Obviously you can suggest more by creating a issue
 # To-Do
 - [ ] Accessory bag <br>
 - [ ] Talismans<br>
