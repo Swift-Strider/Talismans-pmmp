@@ -3,7 +3,7 @@
 Good question? <br> <b> Accessories/Talismans are a category of items that grant perks or buffs while held in a player's inventory or Accessory Bag</b>
 # What are accessory bags?
 <b> Accessory bag are vaults like storage to keep your accessories/talismans safe. The accessory bag from beginning have only 6 slots open but you can upgrade the accessory bag with money and get more slots. The accessory bag currently at fully upgraded have one full single chest slots. </b>
-#Currently Talismans planned:
+# Currently Talismans planned:
 <b> This are the current talismans types planned on making:
 --Farming telisman: (This increase the chance of getting double or triple wheat when you break a wheat like it add a 40% chance of getting double wheat and 15% chance to get triple wheat on breaking)
 --Speed telisman: (This increase the speed of the player by 2x)
