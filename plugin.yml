@@ -4,7 +4,8 @@ main: telisman\reyyan\telisman
 api: 4.0.0
 author: Reyyan987
 Website: This is a Telisman plugin
+depend:
+  - BedrockEconomy
 softdepend:
   - Capital
-  - BedrockEconomy
   - EconomyAPI
