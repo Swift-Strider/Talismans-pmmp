@@ -1,0 +1,10 @@
+name: Telismans-pmmp
+version: 0.1
+main: telisman\reyyan\telisman
+api: 4.0.0
+author: Reyyan987
+Website: This is a Telisman plugin
+softdepend:
+  - Capital
+  - BedrockEconomy
+  - EconomyAPI
