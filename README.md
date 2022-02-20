@@ -6,7 +6,7 @@ Good question? <br> <b> Accessories/Talismans are a category of items that grant
 # Currently Talismans planned:
 <b> This are the current talismans types planned on making:
 <br><input type="checkbox"> - [ ] --Farming telisman: (This increase the chance of getting double or triple wheat when you break a wheat like it add a 40% chance of getting double wheat and 15% chance to get triple wheat on breaking)
-<br> - [ ] --Speed telisman: (This increase the speed of the player by 2x)
+<br> - [ ] Speed telisman: (This increase the speed of the player by 2x)
 <br> - [ ] --zombie telisman: (This reduces the damage taken from zombies by 15%)
 <br> - [ ] --Skeleton telisman: (This reduces the damage from skeleton by 15%)
 <br> - [ ] --Mine Affinity Talisman: (This increases the speed of mining by 5%)
